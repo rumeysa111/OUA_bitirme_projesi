@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1095035715889",
+    "project_id": "kahve-fde41",
+    "storage_bucket": "kahve-fde41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095035715889:android:c2e11b6e7b5baf94d37010",
+        "android_client_info": {
+          "package_name": "com.example.coffe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095035715889-n9ri2b094d5ej6so2dp4ahuk93s9brr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffe2",
+            "certificate_hash": "29163aa70e0d807bc2141729742bad22075c0094"
+          }
+        },
+        {
+          "client_id": "1095035715889-hkri8v1bh68fq8dg3dktd6rclsam6gkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vLX3OBoUOVq8trtSWeOZXJXkDn8BaxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095035715889-hkri8v1bh68fq8dg3dktd6rclsam6gkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095035715889-8v0ej0hnthoq11alcl292jh2dbk4vqmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coffe2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
