@@ -4,6 +4,8 @@
 
 **Kahve Kaşifi** is a mobile application designed to assist users in discovering their ideal coffee. The app uses a dynamic question system to provide personalized coffee recommendations, offering a wide range of options tailored to individual preferences.
 
+This project was developed as part of the **Oyun ve Uygulama Akademisi 2023-2024 Bootcamp** program.
+
 ---
 
 ## Features
