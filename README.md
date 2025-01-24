@@ -26,6 +26,6 @@
 
 ## Screenshots
 
-![Home Page](https://github.com/user-attachments/assets/0c4e6ff1-c8a9-4cae-bca9-128b271cc509)  
-![Random Coffee](https://github.com/user-attachments/assets/d7315adb-119f-41d5-bdad-39dbc9bd65d5)  
-![Profile Page](https://github.com/user-attachments/assets/73e70ed5-6854-4cae-bca9-128b271cc509)
+<img src="https://github.com/user-attachments/assets/0c4e6ff1-c8a9-4cae-bca9-128b271cc509" alt="Home Page" width="400" />  
+<img src="https://github.com/user-attachments/assets/d7315adb-119f-41d5-bdad-39dbc9bd65d5" alt="Random Coffee" width="400" />  
+<img src="https://github.com/user-attachments/assets/73e70ed5-6854-4cae-bca9-128b271cc509" alt="Profile Page" width="400" />
